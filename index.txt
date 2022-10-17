@@ -1,0 +1,8 @@
+   · git status: para comparar o repositório local com o remoto;
+   · git add: para adicionar um arquivo ao commit;
+   · git commit: vai criar um commit para alterar o repositório remoto;
+   · git push: vai fazer alterações adicio registradas pelo commit;
+   · git checkout: para trocar de branche;
+   · git merge: para juntar o conteúdo de duas branches;
+   · git pull: para trazer os arquivos do repositório remoto para a máquinha local;
+   · git remote: para vincular o repositório local com o remoto.
