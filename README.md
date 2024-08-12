@@ -14,16 +14,15 @@ Este projeto envolve a criação de páginas web utilizando HTML, CSS, JavaScrip
     - **Layout Responsivo**: Utilização do Bootstrap para garantir que a página se ajuste a diferentes tamanhos de tela, oferecendo uma experiência consistente em dispositivos móveis e desktop.
     - **Tela de Login**: Embora a página principal seja focada no e-commerce, o design inclui um link para a tela de login, onde usuários podem acessar suas contas.
 
-   ![Página de E-commerce](img/exemplo-ecommerce.png)  
-   _Imagem de exemplo da página de e-commerce_
+    ![image](https://github.com/user-attachments/assets/2c40fed3-02f7-4f6e-8864-e5e14da9b1d2)
+    ![image](https://github.com/user-attachments/assets/30a1ab3e-714f-4ff0-9c44-4b3c18a3dd9a)
 
 2. **Atividade Extra**: Criação de uma página de login com as seguintes características:
     - **Formulário de Login**: Campos para nome de usuário e senha, com validação para garantir que ambos os campos sejam preenchidos.
     - **Botão de Cadastro**: Um botão visível que leva os usuários a uma página de registro caso ainda não tenham uma conta.
     - **Estilização com Bootstrap**: Uso do Bootstrap para criar um layout limpo e moderno, com botões estilizados e formatação de campos de entrada.
-
-   ![Página de Login](img/exemplo-login.png)  
-   _Imagem de exemplo da página de login_
+   
+   ![image](https://github.com/user-attachments/assets/d2da1b42-71c0-418b-bbd3-1078cd4c3d55)
 
 ## ✔️ Técnicas e Tecnologias Utilizadas
 
