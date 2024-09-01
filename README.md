@@ -1,3 +1,5 @@
+## 🌐 [English Version of README](README_EN.md)
+
 # Codificação Front-End
 
 ## Explicação do Projeto
